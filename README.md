@@ -1,2 +1,3 @@
 # apnacollege
-Added in video course
+Myself Vivek 
+I have made this readme to learn GIT
